@@ -1,4 +1,8 @@
 _repo: Deductive-Logic_6560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stock, St. George William Joseph
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2084'
     url: http://www.gutenberg.org/2009/agents/2084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6560#Deductive-Logic
 gutenberg_bookshelf:
 - Mathematics
 - Philosophy
